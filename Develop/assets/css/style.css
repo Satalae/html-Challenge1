@@ -204,6 +204,7 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+/* Changed h2 to h4 to remain semantically correct. */
+.footer h4 {
     font-size: 20px;
 }

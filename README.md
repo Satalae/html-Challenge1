@@ -3,6 +3,9 @@
 In this project, we have been assigned to work independently on a provided html and css file for a company named Horiseon,
 a made up company with html and css pages that had a few problems.
 
+The page is deployed at the following HTML:
+Preview is the provided png that the HTML page is supposed look like
+
 # HTML
 
 The HTML page originally had a non-function link for Search Engine Optimization. The expected functionality was that when
